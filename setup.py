@@ -4,7 +4,7 @@ def readme():
     with open("README.md") as f:
         return f.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.12'
 DESCRIPTION = 'Bot Check Ext so you can lock your bots to certain channels'
 LONG_DESCRIPTION = 'Bot Check Ext so you can lock your bots to certain channels'
 

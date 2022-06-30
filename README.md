@@ -15,7 +15,7 @@ pip install -U git+https://github.com/Foxxy-Jamie/nextcord-bot-lock
 ## **Quick Example**
 
 ```py 
-import nextcord
+import nextcord, LockBot
 from nextcord.ext import commands
 from LockBot.check import locked
 import LockBot.exceptions

@@ -6,6 +6,12 @@ This is a unofficial extension of Nextcord.py. This allows you to lock your bot 
 
 ### ***Please Note***
 > The package will be continued but may be buggy and error based. As the package grows so shall the database. meaning more data can be stored.
+
+## Install
+```
+pip install -U git+https://github.com/Foxxy-Jamie/nextcord-bot-lock
+```
+
 ## **Quick Example**
 
 ```py 

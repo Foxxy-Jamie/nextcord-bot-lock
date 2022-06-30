@@ -7,4 +7,4 @@ class LockedBot(CommandError):
 class BOTLOCK(LockedBot):
     def __init__(self, argument: str) -> None:
         self.argument: str = argument
-        super().__init__(f'Bot is Locked To a Channel Cant Send Messages...')
+        super().__init__('BOTLOCKED: Bot has been Locked to a certain Channel')
